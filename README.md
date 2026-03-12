@@ -509,10 +509,10 @@ For details on how these colors map to syntax tokens, see the [Syntax Roles](#sy
 	</tr>
 	<tr>
 		<td><code>{{ Selection_Color }}</code></td>
-		<td></td>
+		<td><img src="assets/misc/dark_selection.png" width="24"/></td>
 		<td><code>#264dcb80</code></td>
-		<td></td>
-		<td><code>#c7d3ff</code></td>
+		<td><img src="assets/misc/light_selection.png" width="24"/></td>
+		<td><code>#c7d3ff99</code></td>
 	</tr>
 	<tr>
 		<td><code>{{ Selected_Text_Color }}</code></td>
@@ -604,17 +604,17 @@ How the palette colors map to code tokens across both flavors.
 	</tr>
 	<tr>
 		<td>Comments</td>
-		<td></td>
+		<td><img src="assets/misc/dark_comments.png" width="24"/></td>
 		<td><code>#7f8d9f</code></td>
-		<td></td>
+		<td><img src="assets/misc/light_comments.png" width="24"/></td>
 		<td><code>#637083</code></td>
 		<td>Inline and block comments</td>
 	</tr>
 	<tr>
 		<td>Errors / Invalid</td>
-		<td></td>
+		<td><img src="assets/misc/dark_errors.png" width="24"/></td>
 		<td><code>#ffc6d0</code></td>
-		<td></td>
+		<td><img src="assets/misc/light_errors.png" width="24"/></td>
 		<td><code>#ad1c48</code></td>
 		<td>Invalid tokens, errors</td>
 	</tr>
