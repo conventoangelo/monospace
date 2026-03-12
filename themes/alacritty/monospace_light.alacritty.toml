@@ -1,0 +1,39 @@
+# Monospace Light — Alacritty Terminal Theme
+# Generated from palette.json
+#
+# Place this file at:
+#   ~/.config/alacritty/themes/monospace-light.toml
+# Then import it in alacritty.toml:
+#   import = ["~/.config/alacritty/themes/monospace-light.toml"]
+
+[colors.primary]
+background = "#f4f7fd"
+foreground = "#475365"
+
+[colors.cursor]
+text   = "#a4afbd"
+cursor = "#6f4cde"
+
+[colors.selection]
+text       = "CellForeground"
+background = "#c7d3ff99"
+
+[colors.normal]
+black   = "#333e4f"
+red     = "#d03941"
+green   = "#007b49"
+yellow  = "#a65921"
+blue    = "#3c60dd"
+magenta = "#6f4cde"
+cyan    = "#0075a2"
+white   = "#5d6a7d"
+
+[colors.bright]
+black   = "#000000"
+red     = "#a52430"
+green   = "#00522f"
+yellow  = "#904b1a"
+blue    = "#002487"
+magenta = "#4d21bb"
+cyan    = "#00607e"
+white   = "#475365"

@@ -1,0 +1,25 @@
+# Monospace Light — Warp Terminal Theme
+
+accent: "#6F4CDE"
+background: "#F4F7FD"
+foreground: "#475365"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#000000"
+    blue: "#002487"
+    cyan: "#00607E"
+    green: "#00522F"
+    magenta: "#4D21BB"
+    red: "#A52430"
+    white: "#475365"
+    yellow: "#904B1A"
+  normal:
+    black: "#333E4F"
+    blue: "#3C60DD"
+    cyan: "#0075A2"
+    green: "#007B49"
+    magenta: "#6F4CDE"
+    red: "#D03941"
+    white: "#5D6A7D"
+    yellow: "#A65921"
