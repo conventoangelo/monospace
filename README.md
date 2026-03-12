@@ -135,16 +135,16 @@ How the palette colors map to code tokens across both flavors.
 
 | Application | File |
 | --- | --- |
-| Alacritty | [`monospace-dark.alacritty.toml`](dark/monospace-dark.alacritty.toml) |
-| Windows Terminal | [`monospace-dark.windows-terminal.json`](dark/monospace-dark.windows-terminal.json) |
-| Warp | [`monospace_dark.warp.yaml`](dark/monospace_dark.warp.yaml) |
+| Alacritty | [`monospace-dark.alacritty.toml`](themes/alacritty/monospace_dark.alacritty.toml) |
+| Windows Terminal | [`monospace-dark.windows-terminal.json`](themes/windows-terminal/monospace_dark.windows-terminal.json) |
+| Warp | [`monospace_dark.warp.yaml`](themes/warp/monospace_dark.warp.yaml) |
 
 ### Light
 
 | Application | File |
 | --- | --- |
-| Alacritty | [`monospace-light.alacritty.toml`](light/monospace-light.alacritty.toml) |
-| Windows Terminal | [`monospace-light.windows-terminal.json`](light/monospace-light.windows-terminal.json) |
-| Warp | [`monospace_light.warp.yaml`](light/monospace_light.warp.yaml) |
+| Alacritty | [`monospace-light.alacritty.toml`](themes/alacritty/monospace_light.alacritty.toml) |
+| Windows Terminal | [`monospace-light.windows-terminal.json`](themes/windows-terminal/monospace_light.windows-terminal.json) |
+| Warp | [`monospace_light.warp.yaml`](themes/warp/monospace_light.warp.yaml) |
 
 ---
