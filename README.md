@@ -628,16 +628,18 @@ How the palette colors map to code tokens across both flavors.
 
 | Application      | File                                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------ |
-| Alacritty        | [`monospace-dark.alacritty.toml`](themes/alacritty/monospace_dark.alacritty.toml)                      |
-| Windows Terminal | [`monospace-dark.windows-terminal.json`](themes/windows-terminal/monospace_dark.windows-terminal.json) |
+| Alacritty        | [`monospace_dark.alacritty.toml`](themes/alacritty/monospace_dark.alacritty.toml)                      |
+| VS Code          | [`monospace_dark.vscode.json`](themes/vscode/monospace_dark.vscode.json)                               |
+| Windows Terminal | [`monospace_dark.windows-terminal.json`](themes/windows-terminal/monospace_dark.windows-terminal.json) |
 | Warp             | [`monospace_dark.warp.yaml`](themes/warp/monospace_dark.warp.yaml)                                     |
 
 ### Light
 
 | Application      | File                                                                                                     |
 | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| Alacritty        | [`monospace-light.alacritty.toml`](themes/alacritty/monospace_light.alacritty.toml)                      |
-| Windows Terminal | [`monospace-light.windows-terminal.json`](themes/windows-terminal/monospace_light.windows-terminal.json) |
+| Alacritty        | [`monospace_light.alacritty.toml`](themes/alacritty/monospace_light.alacritty.toml)                      |
+| VS Code          | [`monospace_light.vscode.json`](themes/vscode/monospace_light.vscode.json)                               |
+| Windows Terminal | [`monospace_light.windows-terminal.json`](themes/windows-terminal/monospace_light.windows-terminal.json) |
 | Warp             | [`monospace_light.warp.yaml`](themes/warp/monospace_light.warp.yaml)                                     |
 
 ---
