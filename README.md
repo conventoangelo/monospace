@@ -2,7 +2,7 @@
 
 > A cool, focused color system for code editors and terminals — characterized by a blue-gray base and a consistent purple accent.
 
-Monospace is extracted and formalized from Google's IDX Monospace theme. It is characterized by a **cool blue-gray base** that recedes into the background and a **consistent purple accent** that carries every interactive element — buttons, cursors, focus rings, active tab borders, and links — across both flavors. The syntax palette uses muted greens for strings, soft blues for constants and functions, warm yellows for variables, and dusty pinks for keywords. Switching between dark and light feels like changing the lighting in a room, not changing themes.
+Monospace is extracted and formalized from [Google's Project IDX](https://idx.dev/) Monospace theme. It is characterized by a **cool blue-gray base** that recedes into the background and a **consistent purple accent** that carries every interactive element — buttons, cursors, focus rings, active tab borders, and links — across both flavors. The syntax palette uses muted greens for strings, soft blues for constants and functions, warm yellows for variables, and dusty pinks for keywords. Switching between dark and light feels like changing the lighting in a room, not changing themes.
 
 ## Color Palette
 
